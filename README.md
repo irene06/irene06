@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @irene06
-- 👀 I’m interested in ...to have my first job as a programmer.
-- 🌱 I’m currently learning ...JAVA &  MySql 
+- 🌱 I’m currently learning ...React & javascript.
 - 💞️ I’m looking to collaborate on ... a project that allows me to learn and grow.
 - 📫 How to reach me ... santa fe, argentina,3425694412.
 
