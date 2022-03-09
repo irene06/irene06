@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irene06
-- 🌱 I’m currently learning ...Angular.
+- 🌱 I’m currently learning ...Python.
 - 💞️ I’m looking to collaborate on ... a project that allows me to learn and grow.
-- 📫 How to reach me ... irene.e06@gmail.com
+- 📫 How to reach me ... DM!
 
 <!---
 irene06/irene06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
