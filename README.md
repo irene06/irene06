@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @irene06
-- 🌱 I’m currently learning ...Python.
-- 💞️ I’m looking to collaborate on ... a project that allows me to learn and grow.
-- 📫 How to reach me ... DM!
+- 👋 Hi, I’m Irene ✨ 
 - https://irene06.github.io/Mypage/
 
 <!---
